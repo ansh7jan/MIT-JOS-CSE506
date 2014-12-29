@@ -1,5 +1,5 @@
 MIT-JOS-CSE506
 ==============
-Lab 5: Filesystems
+Lab 5: File System
 
 Lab 5 completed
