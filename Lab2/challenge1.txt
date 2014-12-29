@@ -1,8 +1,0 @@
-List challenge problems completed as part of the lab 1 handin, as well
-as the problem number.
-Challenge 1(5 points) Change color to 
-All modern terminal emulators support ANSI escapce sequences to show colored text.
-In our case we just used "\x1b[31m]" for red color to be shown in the terminal.
-In our approach, we tested this escape sequence usage on both: putty as well as on ubuntu terminal with white background. For both, it gave successful results.
-Code snippet for the same: cprintf("%s red", "\x1b[31m");
-From this line on, color 'red' will be used for text to be displayed on the terminal/shell screen.
