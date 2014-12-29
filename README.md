@@ -6,20 +6,15 @@ From the course webpage: JOS can be thought of as an exokernel, where the kernel
 
 The JOS operating system implementation included following lab work. The details of each lab are available at http://www.cs.stonybrook.edu/~porter/courses/cse506/f14/labs.html
 
+Lab 0: Raw JOS code
 Lab 1: x86 assembly, boot loader
-
 Lab 2: Virtualmemory
-
 Lab 3: Processes/environments
-
 Lab 4: Multiprogramming and fork
-
 Lab 5: Filesystems
-
 Lab 6: Network driver
-
 Lab 7: Final project
 
 Each lab was provided with skeleton code for JOS operating system, allowing us to do the key implementation as described in each lab.
 
-Each branch contains the completed code for that Lab.
+Each branch contains the completed code for the corresponding Lab.
